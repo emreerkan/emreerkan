@@ -1,9 +1,8 @@
 Emre Erkan
 ----------
 
-> Everything not saved will be lost
-
-\- Nintendo "Quit screen" message
+> Everything not saved will be lost  
+>      - Nintendo "Quit screen" message
 
 |  | Personal                                                | Professional                                            |
 |---|---------------------------------------------------------|---------------------------------------------------------|
