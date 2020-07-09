@@ -1,6 +1,10 @@
 Emre Erkan
 ----------
 
+> Everything not saved will be lost
+
+\- Nintendo "Quit screen" message
+
 |  | Personal                                                | Professional                                            |
 |---|---------------------------------------------------------|---------------------------------------------------------|
 | ![website](https://img.icons8.com/carbon-copy/24/000000/domain.png) | https://karalamalar.net                                 | https://ada.agency                                      |
