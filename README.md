@@ -7,9 +7,9 @@ Full stack developer and software architect. I build, scale, and maintain web pr
 
 ## Quick links
 
-[![Website](https://img.shields.io/badge/Website-emreerkan.com-0b7285?style=flat&logo=firefox-browser&logoColor=white)](https://emreerkan.com)
-[![Blog](https://img.shields.io/badge/Blog-karalamalar.net-495057?style=flat&logo=rss&logoColor=white)](https://www.karalamalar.net/)
-[![Agency](https://img.shields.io/badge/Work-Ada%20Digital%20Agency-1864ab?style=flat&logo=briefcase&logoColor=white)](https://ada.agency/en/)
+[![Website](https://img.shields.io/badge/Website-emreerkan.com-0b7285?style=flat&logo=firefox-browser&logoColor=white)](https://emreerkan.com?utm_source=github&utm_medium=badges)
+[![Blog](https://img.shields.io/badge/Blog-karalamalar.net-495057?style=flat&logo=rss&logoColor=white)](https://www.karalamalar.net/?utm_source=github&utm_medium=badges)
+[![Agency](https://img.shields.io/badge/Work-Ada%20Digital%20Agency-1864ab?style=flat&logo=briefcase&logoColor=white)](https://ada.agency/en/?utm_source=github&utm_medium=badges)
 [![X (Twitter)](https://img.shields.io/badge/@IzzetEmreErkan-000000?style=flat&logo=x&logoColor=white)](https://x.com/IzzetEmreErkan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-izzetemreerkan-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izzetemreerkan/)
 [![WordPress.org](https://img.shields.io/badge/emre-21759b?style=flat&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/emre/)
@@ -90,7 +90,7 @@ I write mainly in Turkish about:
 - WordPress internals and reliability
 - Practical uses of AI in development workflows
 
-You can find my writing at [karalamalar.net](https://www.karalamalar.net/) and in various WordPress community spaces.
+You can find my writing at [karalamalar.net](https://www.karalamalar.net/?utm_source=github&utm_medium=link) and in various WordPress community spaces.
 
 ---
 
